@@ -19,6 +19,7 @@ The corrections could also be performed manually, but this script automates the 
 Before running the script, ensure that:
 - You are using the Python interpreter of the Conda environment in which the cDMN package is installed.
 
+When ready, do the following:
 1. **Open the Conda Terminal**: Make sure you are using the Conda environment where the cDMN is installed. You can activate your environment with the following command:
    ```bash
    conda activate your_environment_name
