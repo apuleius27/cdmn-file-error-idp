@@ -1,4 +1,4 @@
-# Fix for missing file '/tmp/idp_temp.txt' encountered with cDMN python package
+# Fix for missing file '/tmp/idp_temp.txt' encountered with cDMN python package (in Anaconda/Miniconda)
 
 This repository contains a Python script designed to fix a file error encountered while using the [CDMN Python API (v. 2.1.1)](https://pypi.org/project/cdmn/2.1.1/).
 Here below the error raised:
