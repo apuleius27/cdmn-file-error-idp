@@ -26,7 +26,7 @@ When ready, do the following:
    ```
 3. **Navigate to the Script's Directory**: Change directory to the location where you have downloaded the GitHub repository. For example, if you cloned the repository into your home directory, use:
    ```bash
-   cd ~/cdmn-file-error-idp
+   cd ~/fix-cdmn-file-error-idp
    ```
 4. **Run the Script**: Execute the script by running:
    ```bash
