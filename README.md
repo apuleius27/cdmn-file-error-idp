@@ -19,10 +19,18 @@ The corrections could also be performed manually, but this script automates the 
 Before running the script, ensure that:
 - You are using the Python interpreter of the Conda environment in which the cDMN package is installed.
 
-To run the script:
-```bash
-python main.py
-```
+1. **Open the Conda Terminal**: Make sure you are using the Conda environment where the cDMN is installed. You can activate your environment with the following command:
+   ```bash
+   conda activate your_environment_name
+   ```
+3. **Navigate to the Script's Directory**: Change directory to the location where you have downloaded the GitHub repository. For example, if you cloned the repository into your home directory, use:
+   ```bash
+   cd ~/cdmn-file-error-idp
+   ```
+4. **Run the Script**: Execute the script by running:
+   ```bash
+   python main.py
+   ```
 
 ## Disclaimer
 
